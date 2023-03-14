@@ -1,5 +1,6 @@
 ### HackTheBox Academy  
 ### Information Gathering - Web Edition  
+![Logo](./logo.png)
 ---
 ### WHOIS  
 1. Perform a WHOIS lookup against the paypal.com domain. What is the registrant Internet Assigned Numbers Authority (IANA) ID number?  
