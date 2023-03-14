@@ -1,2 +1,3 @@
-# Information Gathering - Web Edition
-## HackTheBox Academy
+# HackTheBox Academy  
+> Information Gathering - Web Edition  
+
